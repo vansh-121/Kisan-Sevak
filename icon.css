@@ -1,0 +1,101 @@
+.icon-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.icon-sidebar {
+  width: 300px;
+  height: 80vh;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.icon-navlink {
+  display: contents;
+}
+.icon-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  text-decoration: none;
+}
+.icon-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.icon-text {
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.icon-text1 {
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.icon-text2 {
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.icon-text3 {
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.icon-profile {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.icon-image {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.icon-container1 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.icon-text5 {
+  font-size: 1.15rem;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.icon-text6 {
+  color: var(--dl-color-gray-500);
+  font-size: 0.75rem;
+}
+@media(max-width: 991px) {
+  .icon-profile {
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+  }
+  .icon-image {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .icon-icon {
+    display: flex;
+  }
+}
+@media(max-width: 479px) {
+  .icon-sidebar {
+    width: 443px;
+    height: 791px;
+  }
+}
