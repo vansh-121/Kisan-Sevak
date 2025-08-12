@@ -105,7 +105,7 @@ A: Nature-inspired colors: green, brown, earth tones.
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername) *(add more as needed)*
+- [Vansh](https://github.com/vansh-121) *(add more as needed)*
 
 ---
 
