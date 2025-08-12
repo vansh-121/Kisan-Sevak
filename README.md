@@ -103,12 +103,6 @@ A: Nature-inspired colors: green, brown, earth tones.
 
 ---
 
-## 👥 Contributors
-
-- [Vansh](https://github.com/vansh-121) *(add more as needed)*
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
