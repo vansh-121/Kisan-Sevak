@@ -1,11 +1,10 @@
 
-# KisanSevak 🚜🌱
+# KisanSevak : Your AI Companion in Farming 🌱
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-> **KisanSevak**: Your AI Companion in Farming
 
 🌐 **Live Demo:** [kisansevak.netlify.app](https://kisansevak.netlify.app/)
 
