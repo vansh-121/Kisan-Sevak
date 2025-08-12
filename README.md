@@ -1,7 +1,6 @@
 
 # KisanSevak 🚜🌱
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/2e7e7b7e-6e7e-4b7e-8e7e-7e7e7e7e7e7e/deploy-status)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
