@@ -6,9 +6,5 @@
     "parcel-bundler": "^1.6.1"
   },
   "scripts": {},
-  "devDependencies": {
-    "@tailwindcss/forms": "^0.5.10",
-    "lucide-react": "^0.544.0",
-    "tailwindcss": "^4.1.13"
-  }
+  "devDependencies": {}
 }
